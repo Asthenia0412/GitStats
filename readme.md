@@ -24,7 +24,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/your-username/git-stats.git
+git clone https://github.com/Asthenia0412/GitStats.git
 cd git-stats
 pip install -r requirements.txt
 ```
